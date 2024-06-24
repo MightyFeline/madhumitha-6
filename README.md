@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhumitha Mohan
-- 👀 I’m interested in Data Sciemce and DevOps
+- 👀 I’m interested in Data Science and DevOps
 - 🌱 I’m complete my Bachelor's in Computer Science and Engineering - Data Science 
 - 📫 How to reach me in madhumitha.xworkz@gmail.com
 - 😄 Pronouns: She / Her
